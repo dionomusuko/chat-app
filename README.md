@@ -2,9 +2,9 @@
 
 ## spec
 
-ruby: 2.6.3
-rails: 5.2.3
-db: sqlite
+* ruby: 2.6.3
+* rails: 5.2.3
+* db: sqlite
 
 ## 概要
 
