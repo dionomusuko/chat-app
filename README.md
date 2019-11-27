@@ -1,24 +1,11 @@
-# README
+# chat-app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## spec
 
-Things you may want to cover:
+ruby: 2.6.3
+rails: 5.2.3
+db: sqlite
 
-* Ruby version
+## 概要
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+actioncableをしようしたリアルタイムチャットアプリを実装します
